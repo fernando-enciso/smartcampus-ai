@@ -1,0 +1,9 @@
+codigo,curso,area,duracion_semanas,modalidad,certificado,precio_usd,cupos,nivel,duracion_texto
+SC-PY-101,Python desde Cero,Programacion,8,Online en vivo,Si,120,30,Inicial,ocho semanas
+SC-WEB-210,Desarrollo Web,Programacion,10,Online flexible,Si,220,40,Intermedio,diez semanas
+SC-DATA-220,Ciencia de Datos,Datos,12,Online en vivo,Si,250,25,Intermedio,doce semanas
+SC-AI-310,Inteligencia Artificial Generativa,Inteligencia Artificial,10,Online en vivo,Si,300,25,Intermedio,diez semanas
+SC-UX-105,Fundamentos de UX,Diseño,6,Online flexible,Si,110,35,Inicial,seis semanas
+SC-MKT-115,Marketing Digital,Negocios,8,Online flexible,Si,140,45,Inicial,ocho semanas
+SC-EXCEL-120,Excel para Analisis,Datos,6,Online en vivo,Si,95,35,Inicial,seis semanas
+SC-PM-205,Gestion Agil de Proyectos,Negocios,8,Online en vivo,Si,180,30,Intermedio,ocho semanas
